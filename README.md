@@ -18,15 +18,16 @@
    https://github.com/learner-lu/anime-face-dataset?tab=readme-ov-file
    
 2.数据集存放格式
+
 DAGAN0
 
---data
+  --data
 
-  --faces
+    --faces
   
-   1.jpg
+     1.jpg
    
-   ...
+       ...
    
 ## 安装步骤
 
