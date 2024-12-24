@@ -12,6 +12,17 @@
   - pandas
   - matplotlib
 
+## 数据下载及存放格式
+
+1. 数据集下载链接
+   https://github.com/learner-lu/anime-face-dataset?tab=readme-ov-file
+2.数据集存放格式
+DAGAN0
+--data
+  --faces
+   1.jpg
+   ...
+   
 ## 安装步骤
 
 1. 安装所需的包：
